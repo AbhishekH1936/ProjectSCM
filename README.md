@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 # Install Visual Studio
 # Install Ganache
-# Add metamask Wallet
+# Add metamask Wallets
 # Install React-Js and required libraries(specified in package.json file).
 
 
